@@ -18,5 +18,6 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
+En la rama gerardo voy a crear un archivo about en la carpeta pages
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
