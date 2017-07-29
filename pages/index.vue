@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        NUXT
+        Rama Gerardo
       </h1>
       <h2 class="subtitle">
-        Universal Vue.js Application
+        En rama Gerardo
       </h2>
       <div class="links">
         <nuxt-link to="/about"  class="button--green">Acerca de nosotros</nuxt-link>
