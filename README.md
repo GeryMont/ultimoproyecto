@@ -18,5 +18,5 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
+Esta será la versión definitiva de todo, con el merge bien hecho
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
