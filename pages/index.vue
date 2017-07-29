@@ -3,17 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-<<<<<<< HEAD
         Master
       </h1>
       <h2 class="subtitle">
         En rama Master
-=======
-        Rama Gerardo
-      </h1>
-      <h2 class="subtitle">
-        En rama Gerardo
->>>>>>> gerardo
       </h2>
       <div class="links">
         <nuxt-link to="/about"  class="button--green">Acerca de nosotros</nuxt-link>
