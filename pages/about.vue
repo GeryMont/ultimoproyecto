@@ -4,5 +4,3 @@
     <nuxt-link to="/">Volver a inicio</nuxt-link>
   </div>
 </template>
-
-
